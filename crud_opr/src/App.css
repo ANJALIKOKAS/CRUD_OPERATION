@@ -1,0 +1,19 @@
+table,th,td{
+  color: black;
+  border: 2px solid black;
+  background-color: lightblue;
+}
+
+.buttonedit{
+  background-color: lightgreen;
+  font-weight: bold;
+}
+.buttondelete{
+  background-color: lightcoral;
+  font-weight: bold;
+}
+button{
+  background-color: darkcyan;
+  font-weight: bold;
+}
+
